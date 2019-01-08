@@ -2,7 +2,7 @@
 I-Hash is a unique POW mining (SHA-256) based token created under Tradecoin Asset:EekwfLSAkbREneBHrXdZSRAEPvmijq71Nf2GDNqBStz4. The Ω (Omega) denotes resistance (proof of Burning Electricity) against work done by a machine to make token value worthful. Each I-Hash block can be claimed only via proof of hash (SHA-256) submitted by a miner with certain conditions in a specified time period. Each I-Hash block is a proof of an average ~4.29GH mining (Because of minimum difficulty set to 16^8 = 4294967296 hashes). I-Hash blocks can be mined on CPU, even offline but to submit block miner need an Internet connectivity. There will a fix supply of 1 million I-Hash Tokens. Which will be distributed in four different rounds, each round of 250k I-Hashes). For more information read our whitepaper available on waves forum.
 
 ## Steps to Run and claim I-Hash tokens through I-Hash Miner:
-1. Click on "clone or download in top right corner marked as green" then click Download I-Hash.zip.
+1. Click on "clone or download" in top right corner marked as green then click Download I-Hash.zip.
 2. Unzip I-Hash folder.
 3. Click on Mining.bat (It will open Readme.html and I-Hash.html)
 4. I-Hash java based Miner will start running the miner in background.
