@@ -15,4 +15,4 @@ I-Hash is a unique POW mining (SHA-256) based token created under Tradecoin Asse
 ## System Requirements:
 Java must be installed in your system and it should be available in system root.
 
-## Note: Windows operating systems may alert you for downloading and running .bat file and .jar file, so its normal. You can read the contents of .bat file by right clicking on it.  
+#### Note: Windows operating systems may alert you for downloading and running .bat file and .jar file, so its normal. You can read the contents of .bat file by right clicking on it.  
